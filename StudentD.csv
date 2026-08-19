@@ -1,0 +1,11 @@
+Student ID,Age,Gender,Study Hours,Attendance (%),Marks,Result
+1,18,Female,2.5,75,55,Pass
+2,19,Male,4,82,68,Pass
+3,18,Female,,68,61,Pass
+4,20,Male,6,91,85,Pass
+5,19,Female,5,88,78,Pass
+6,18,Male,1.5,60,45,Fail
+7,21,Female,7,,92,Pass
+8,20,Male,4.5,80,72,Pass
+9,19,Female,3.5,72,64,Pass
+10,18,Male,2,65,,Fail
