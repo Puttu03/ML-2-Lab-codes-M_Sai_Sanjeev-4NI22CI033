@@ -1,0 +1,16 @@
+Outlook,Temperature,Humidity,Wind,Location,PlayTennis
+Sunny,Hot,High,Weak,Park,Yes
+Sunny,Hot,High,Strong,Park,No
+Overcast,Hot,Normal,Weak,Park,Yes
+Rain,Mild,Normal,Weak,Beach,Yes
+Rain,Cool,Normal,Weak,Beach,Yes
+Rain,Cool,Normal,Strong,Beach,No
+Overcast,Cool,Normal,Weak,Park,Yes
+Sunny,Mild,High,Strong,Park,No
+Sunny,Cool,Normal,Weak,Beach,Yes
+Rain,Mild,High,Strong,Beach,No
+Sunny,Mild,Normal,Weak,Park,Yes
+Overcast,Mild,High,Weak,Beach,Yes
+Overcast,Hot,High,Strong,Park,No
+Rain,Mild,High,Strong,Beach,No
+Sunny,Hot,Normal,Weak,Park,Yes
